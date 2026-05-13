@@ -8,7 +8,7 @@ from modelos.excepciones import ServicioError
 # Clase ReservaSala
 class ReservaSala(Servicio):
 
-    # Método sobrescrito
+    # Método para calcular costo
     def calcular_costo(self, horas, descuento=0):
 
         # Validación
@@ -18,7 +18,7 @@ class ReservaSala(Servicio):
                 "Las horas deben ser mayores a cero"
             )
 
-        # Cálculo total
+        # Calcular total
         total = self.tarifa * horas
 
         # Aplicar descuento
@@ -26,7 +26,15 @@ class ReservaSala(Servicio):
 
         return total
 
-    # Método sobrescrito
+    # Método descripción
     def descripcion(self):
 
         return "Servicio de reserva de salas"
+
+    # Método heredado obligatorio
+    def mostrar_informacion(self):
+
+        return (
+            f"Servicio: {self.nombre} "
+            f"| Tarifa: {self.tarifa}"
+        )

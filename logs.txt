@@ -1,0 +1,36 @@
+[2026-05-12 22:21:03.861666] Cliente registrado: David
+[2026-05-12 22:21:03.862478] ERROR CLIENTE: El nombre no puede estar vacío
+[2026-05-12 22:21:03.863185] ERROR CLIENTE: La cédula debe contener solo números
+[2026-05-12 22:21:03.863910] Cliente registrado: Ana
+[2026-05-12 22:21:03.864463] Cliente registrado: Carlos
+[2026-05-12 22:21:03.864888] ERROR SERVICIO: Can't instantiate abstract class ReservaSala without an implementation for abstract method 'mostrar_informacion'
+[2026-05-12 22:21:03.865558] ERROR RESERVA: cannot access free variable 'sala' where it is not associated with a value in enclosing scope
+[2026-05-12 22:21:03.866090] Finalizó una operación de reserva
+[2026-05-12 22:21:03.866694] ERROR RESERVA: cannot access free variable 'equipo' where it is not associated with a value in enclosing scope
+[2026-05-12 22:21:03.868495] Finalizó una operación de reserva
+[2026-05-12 22:21:03.869850] ERROR RESERVA: cannot access free variable 'asesoria' where it is not associated with a value in enclosing scope
+[2026-05-12 22:21:03.870685] Finalizó una operación de reserva
+[2026-05-12 22:21:03.871353] ERROR RESERVA: cannot access free variable 'asesoria' where it is not associated with a value in enclosing scope
+[2026-05-12 22:21:03.871862] Finalizó una operación de reserva
+[2026-05-12 22:21:03.872473] ERROR RESERVA: cannot access free variable 'sala' where it is not associated with a value in enclosing scope
+[2026-05-12 22:21:03.873071] Finalizó una operación de reserva
+[2026-05-12 22:23:23.648039] Cliente registrado: David
+[2026-05-12 22:23:23.648605] ERROR CLIENTE: El nombre no puede estar vacío
+[2026-05-12 22:23:23.649225] ERROR CLIENTE: La cédula debe contener solo números
+[2026-05-12 22:23:23.649765] Cliente registrado: Ana
+[2026-05-12 22:23:23.650287] Cliente registrado: Carlos
+[2026-05-12 22:25:07.890268] Cliente registrado: David
+[2026-05-12 22:25:07.890701] ERROR CLIENTE: El nombre no puede estar vacío
+[2026-05-12 22:25:07.891366] ERROR CLIENTE: La cédula debe contener solo números
+[2026-05-12 22:25:07.891942] Cliente registrado: Ana
+[2026-05-12 22:25:07.892393] Cliente registrado: Carlos
+[2026-05-12 22:25:07.892898] Reserva procesada correctamente
+[2026-05-12 22:25:07.893244] Finalizó una operación de reserva
+[2026-05-12 22:25:07.893711] ERROR RESERVA: Error procesando la reserva
+[2026-05-12 22:25:07.894009] Finalizó una operación de reserva
+[2026-05-12 22:25:07.894422] Reserva procesada correctamente
+[2026-05-12 22:25:07.894749] Finalizó una operación de reserva
+[2026-05-12 22:25:07.895270] Reserva procesada correctamente
+[2026-05-12 22:25:07.895883] Finalizó una operación de reserva
+[2026-05-12 22:25:07.896472] ERROR RESERVA: Error procesando la reserva
+[2026-05-12 22:25:07.896957] Finalizó una operación de reserva
